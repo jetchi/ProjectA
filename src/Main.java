@@ -13,8 +13,8 @@ public class Main
         // Declaration
         Scanner in = new Scanner();
 
-        double wagePerHour = in.next;
-        double hoursPerWeek = in.next;
+        double wagePerHour = in.nextDouble();
+        double hoursPerWeek = in.nextDouble();
         double overtime = hoursPerWeek - 40 * 1.5;
 
     }
