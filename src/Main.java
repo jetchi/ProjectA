@@ -11,11 +11,11 @@ public class Main
     {
 
         // Declaration
-        Scanner in = new Scanner()
+        Scanner in = new Scanner();
 
-        double wagePerHour = in.next
-        double hoursPerWeek = in.next
-        double overtime = hoursPerWeek - 40 * 1.5
+        double wagePerHour = in.next;
+        double hoursPerWeek = in.next;
+        double overtime = hoursPerWeek - 40 * 1.5;
 
     }
 }
