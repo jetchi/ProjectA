@@ -11,7 +11,7 @@ public class Main
     {
 
         // Declaration
-        Scanner in = new Scanner();
+        Scanner in = new Scanner("something");
 
         double wagePerHour = in.nextDouble();
         double hoursPerWeek = in.nextDouble();
